@@ -1,3 +1,6 @@
+// Licensed in GPL v3
+// Copyright 2013-2013 xvblack
+
 #include "headers.h"
 #include "DynamicArray.h"
 #include "LinkedDynamicArray.h"

@@ -1,3 +1,5 @@
+// Licensed in GPL v3
+// Copyright 2013-2013 xvblack
 
 #include "DynamicArray.h"
 
